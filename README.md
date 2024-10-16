@@ -1,2 +1,2 @@
 # Temperature
-This is temperature converter website .
+This is a temperature converter  .
