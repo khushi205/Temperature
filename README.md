@@ -1,2 +1,2 @@
 # Temperature
-This is a temperature converter  .
+This is a temperature converter.
